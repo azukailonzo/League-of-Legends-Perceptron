@@ -1,2 +1,3 @@
 # League-of-Legends-Perceptron
-Implemented a perceptron model in order to predict the outcome of the first 10 minutes of the League of Legends game
+Implemented a perceptron model in order to predict the outcome of the first 10 minutes of the League of Legends game.
+(with the help of two other students).
